@@ -1,0 +1,59 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+}
+
+.form input {
+    margin: 10px;
+}
+
+.first{
+    display: flex;
+}
+
+.first label{
+    margin: 10px;
+    font-size: 25px;
+}
+.second{
+    display: flex;
+    margin-left: 10px;
+}
+
+.second label {
+    margin: 10px;
+    font-size: 25px;
+
+}
+
+.second input {
+    margin-left: 20px;
+}
+
+.map-obj{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 5px;
+    /* place-items: center; */
+}
+
+
+/* #button-danger {
+  margin-bottom: 5px;
+} */
+
+.map-obj button {
+    margin: 12px;
+}
+
+.navbar ul {
+    margin-left: 40px;
+
+}
+.navbar ul li a{
+    font-size: 25px;
+    color: beige;
+    font-weight: 550;
+}
